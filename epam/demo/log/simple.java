@@ -19,4 +19,3 @@ public class simpleInterest {
 		LOGGER.info("Simple Interest is : "+ans);
 	}
 }
-© 2020 GitHub, Inc.
